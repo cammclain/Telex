@@ -1,0 +1,6 @@
+{
+    "c2_url": "http://c2server.com/api/",
+    "agent_id": "unique_agent_id",
+    "check_interval": 60,
+    "encryption_key": "secret_key"
+}
